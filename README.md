@@ -1,2 +1,2 @@
-# First_project-
+# First_project
 Мой первый проект курса Аналитик данных
